@@ -1,2 +1,2 @@
 # ipned
-IP network device discovery
+IP network element discovery
